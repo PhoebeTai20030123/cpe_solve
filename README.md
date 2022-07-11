@@ -1,2 +1,2 @@
 # cpe_solve
-just wanna record my solved problem!
+just wanna to record my solved problem!
